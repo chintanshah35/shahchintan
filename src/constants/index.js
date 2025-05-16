@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   oraclecerner,
+  asurion,
   collidedigital,
   bluewander,
   chatgptapp,

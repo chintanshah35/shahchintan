@@ -26,6 +26,7 @@ import collidedigital from "./company/collidedigital.png";
 import bluewander from './company/bluewander.png';
 import convonix from './company/convonix.png';
 import smgconvonix from './company/smgconvonix.jpg';
+import asurion from './company/asurion.png';
 
 import chatgptapp from "./chatgptapp.png"
 import ecomdashboard from "./ecomdashboard.png";
@@ -58,6 +59,7 @@ export {
   bluewander,
   convonix,
   smgconvonix,
+  asurion,
   chatgptapp,
   ecomdashboard,
   topgithubrepos,

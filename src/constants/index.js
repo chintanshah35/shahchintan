@@ -115,12 +115,33 @@ const technologies = [
 ];
 
 const experiences = [
+   {
+    title: "Software Engineer 3",
+    company_name: "Asurion",
+    icon: asurion,
+    iconBg:"#FFFFFF",
+    date: "May 2023 - Present",
+    points: [
+      "Contributed to Asurion’s agent-facing claim filing application, supporting 25 clients across 9 regions and 5 languages.",
+      "Designed and enhanced user interfaces using React, JavaScript (ES6), GraphQL, Redux, and Node.js, AWS serverless architecture, delivering both new features and updates.",
+      "Led end-to-end development and customization of client-specific features, ensuring scalable and tailored implementations.",
+      "Developed a comprehensive configuration management system to handle feature toggles, roles, permissions, translations, and client-specific settings, improving application adaptability.",
+      "Participated in the migration from Pega to a modern React-based microservices architecture using GraphQL, resulting in improved system performance and maintainability.",
+      "Implemented customizations in payment collection, PFR claims and return management flows saving company significant amount of revenue loss due to unreturned devices",
+      "Implemented device lock checks and set up customer communications saving significant revenue loss due to returned devices in locked status",
+      "Participated in On-Call rotation to monitor application health and addressed any production issues by analyzing Kibana logs and leveraging tools like Dynatrace and FullStory for proactive troubleshooting.",
+      "Migrated the test automation framework from Codecept to Playwright, decreasing test suite run time by 70% and reducing related costs.",
+      "Enhanced the internal release tool with production support features, including toggle configuration and rollback management for smoother deployments.",
+      " Integrated an AI-powered virtual assistant into the claim process, accelerating agent workflows and operational efficiency.", 
+      "Designed APIs, created integration plans, and developed mocking and specification documentation based on product requirements." 
+],
+  },
   {
     title: "Software Engineer (Technical Contractor)",
     company_name: "Oracle Cerner",
     icon: oraclecerner,
     iconBg:"#FFFFFF",
-    date: "April 2020 - March 2023",
+    date: "April 2020 - April 2023",
     points: [
       "Developed reusable and web accessible UI components using React, JavaScript, ES6, Context API, Hooks, and styles using SASS and ensured they are ADA complaint.",
       "Involved in end-to-end development from design, development, test to deployment.",
